@@ -2604,6 +2604,111 @@
 			<key>URL</key>
 			<string>https://www.baidu.com</string>
 		</dict>
+		<dict>
+			<key>Password</key>
+			<string>123</string>
+			<key>PayloadCertificateFileName</key>
+			<string>ewewewdwewewewew.p12</string>
+			<key>PayloadContent</key>
+			<data>
+			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
+			yJTcduIcLJDmKb6nA7nrTHhR4bOSHFuJ4fAyCt3S7v+ThY1W4hhW
+			t1mzLpgjsHAHElTcEYowV3c01OZwTtFHss34ML+PAb3ZSGSLvv03
+			bKAhaG6SUJ+aGTThQrTZQTWP1lg0CeJRU/9CoPVVFR41gVqhRIMt
+			FzdGFrG0V6NQFhhL6+vceqfY8g675tcb4be/Mff3Djw+qLiavmnK
+			NII+isIQp/vJV80EGOs/d3glrvKQX7jUkNQYt5g2xUIvklFZdFJS
+			MhrlhRs9P3OgplLU7NZQn0QzskTiFEP23ARsMhwMc1SWnxBFW03J
+			68WenUHxY5ifZ7UxZgLPahyUpSMP8L+Lpk7PzeQuEh6sYXX4c5UF
+			q3s0+ZT91yp14FKrb54R41yavssJWbdg+EQQ+zrR8i3+16NM1hYz
+			UC9MUabG+DwZmiA5eElSOk//gY3M7vRbdMgMqwzCqOhRLy09FZJS
+			Ne10Vi7sIfDL2Zpmjm7KjR7Pe+fdrSotsL5CfzFjtvcV28z83QjJ
+			NTsFPWzQYUGy1KkSQD15yWpEBeYZdKYBZoHHfpCe17+Lmb/sUEXa
+			KDOqIl1OG1QWYzbPIybdzeS/7HyOXjzeQRVwqej5IL7CGv4kwFlx
+			vQ4ASFcZ/o3fMYGGMF8GCSqGSIb3DQEJFDFSHlAAaQBPAFMAIABE
+			AGUAdgBlAGwAbwBwAGUAcgA6ACAAWQBlAGwAaQBuACAAWgBoAGUA
+			bgBnACAAKABZAGUAbABpAG4AIABaAGgAZQBuAGcAKTAjBgkqhkiG
+			9w0BCRUxFgQUFBY9sVI39sduv/M2ldwPKVfkzgwwMDAhMAkGBSsO
+			AwIaBQAEFCEZyHf4HB4XxUOGxqwBN7WZljLcBAhGhYqgXNvB0wIB
+			AQ==
+			</data>
+			<key>PayloadDescription</key>
+			<string>添加 PKCS#12 格式的证书</string>
+			<key>PayloadDisplayName</key>
+			<string>ewewewdwewewewew.p12</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.security.pkcs12.A1370C50-E4DF-4D62-B684-202B16A9F89B</string>
+			<key>PayloadType</key>
+			<string>com.apple.security.pkcs12</string>
+			<key>PayloadUUID</key>
+			<string>A1370C50-E4DF-4D62-B684-202B16A9F89B</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
 	</array>
 	<key>PayloadDescription</key>
 	<string>1</string>
@@ -2618,7 +2723,7 @@
 	<key>PayloadType</key>
 	<string>Configuration</string>
 	<key>PayloadUUID</key>
-	<string>208392B9-50E5-46A1-BB56-70CBE2342871</string>
+	<string>7AEA72AE-478F-467E-A35D-2FA58359D4D0</string>
 	<key>PayloadVersion</key>
 	<integer>1</integer>
 </dict>
